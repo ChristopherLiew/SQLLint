@@ -1,5 +1,5 @@
 # SQLLint
-Repo with boilerplate setup for SQL / Python linting and fixing with SQL Fluff and Black within Poetry.
+Repo with boilerplate setup for SQL / Python linting and fixing with SQL Fluff, Flake8 and Black within Poetry.
 
 ## Make Commands
 ### Set Up
