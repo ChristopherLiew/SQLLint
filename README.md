@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# SQL Linting Repo
-### Overview
-- SQL linting repo sql fluff configurations and templates
-
-=======
 # SQLLint
 Repo with boilerplate setup for SQL / Python linting and fixing with SQL Fluff and Black within Poetry.
 
@@ -21,4 +15,3 @@ make sqllint  Uses sqlfluff (with configs as defined in pyproject.toml) to recur
 
 make sqlfix  Uses sqlfluff to recursively fix sql files based on linting rules (best-practices) within a given directory.
 ```
->>>>>>> 38653893e481d4f87f48150bcbb96645b9059b6c
